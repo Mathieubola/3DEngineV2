@@ -6,5 +6,3 @@ win.addCube()
 
 
 win.loop()
-
-win.mainLoop()
